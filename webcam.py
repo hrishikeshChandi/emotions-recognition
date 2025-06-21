@@ -6,7 +6,7 @@ from torchvision import transforms
 
 har_cascade = cv.CascadeClassifier("haar_face.xml")
 
-model = torch.load("cpu_model.pth", weights_only=False)
+model = torch.load("model_b2.pth", weights_only=False)
 model.eval()
 
 img_transform = transforms.Compose(
