@@ -1,0 +1,10 @@
+torch
+torchvision
+tqdm
+matplotlib
+mlxtend
+tensorboard
+kagglehub
+torchmetrics
+opencv-python
+Pillow
