@@ -1,8 +1,8 @@
-# Emotion Recognition from Facial Images
+# Real-Time Emotion Recognition Using Webcam
 
 ## Overview
 
-This project enables automatic recognition of human emotions from facial images using deep learning. The system is trained on the FER2013 dataset and can classify faces into seven emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise. The solution includes a Jupyter notebook for training and evaluation, and a Python script for real-time emotion recognition using your webcam.
+This project enables real-time recognition of human emotions through your webcam using deep learning. The system is trained on the FER2013 dataset and can classify faces into seven emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise. The solution includes a Jupyter notebook for training and evaluation, and a Python script for real-time emotion recognition using your webcam.
 
 ## Features
 
