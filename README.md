@@ -48,7 +48,7 @@ No manual download required! The dataset is fetched automatically by the noteboo
 This project includes a `requirements.txt` file listing all necessary Python packages. Install them with:
 
 ```bash
-git clone https://github.com/hrishikeshChandi/emotions-recognition-main.git
+git clone https://github.com/hrishikeshChandi/emotions-recognition.git
 cd emotions-recognition-main
 pip install -r requirements.txt
 ```
