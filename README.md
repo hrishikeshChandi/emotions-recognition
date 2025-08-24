@@ -49,7 +49,7 @@ This project includes a `requirements.txt` file listing all necessary Python pac
 
 ```bash
 git clone https://github.com/hrishikeshChandi/emotions-recognition.git
-cd emotions-recognition-main
+cd emotions-recognition
 pip install -r requirements.txt
 ```
 
